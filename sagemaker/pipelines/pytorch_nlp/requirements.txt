@@ -1,0 +1,5 @@
+pandas==1.1.5
+pytorch-lightning==1.5.10
+transformers==4.18.0
+smdebug==1.0.9
+smdebug-rulesconfig==1.0.1
